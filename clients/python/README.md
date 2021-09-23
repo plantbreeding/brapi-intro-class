@@ -24,12 +24,18 @@ The goal of this exercise is to complete the missing pieces of this application 
 
 1. Verify that you have Python 3 installed and you can access it via a terminal. 
 
->`$> python --version`
+```
+$> python --version
+```
 
 2. Install the Python Requests library using PIP
 
->`$> python -m pip install requests`
+```
+$> python -m pip install requests
+```
 
 3. Run the application 
 
->`$> python PythonClientMain.py`
+```
+$> python PythonClientMain.py
+```

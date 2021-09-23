@@ -24,14 +24,19 @@ The goal of this exercise is to complete the missing pieces of this application 
 
 1. Verify that you have Node.js and NPM installed and you can access them via a terminal. 
 
->`$> node --version`
-
->`$> npm --version`
+```
+$> node --version
+$> npm --version
+```
 
 2. Install the required libraries using NPM
 
->`$> npm install`
+```
+$> npm install
+```
 
 3. Run the application 
 
->`$> node index.js`
+```
+$> node index.js
+```
